@@ -63,9 +63,8 @@ yarn-error.log*
 Thumbs.db
 
 # ML service — keep source; ignore weights / training artifacts / secrets
-ml_services/models/
+
 ml_services/runs/
 ml_services/.env
 
 # FFmpeg binaries
-tools/ffmpeg/bin/
